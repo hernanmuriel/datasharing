@@ -1,1 +1,1 @@
-## This is a markdown file by Hernán Muriel muriel.hernan@gmail.com
+## This is a markdown file by Hernán Muriel, email: muriel.hernan@gmail.com
